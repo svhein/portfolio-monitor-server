@@ -1,0 +1,121 @@
+[
+    {
+      "amount": 1,
+      "changePercent": "-0.44",
+      "currency": "usd",
+      "id": "TGT",
+      "price": "151.0400"
+    },
+    {
+      "amount": 1,
+      "changePercent": "-0.11",
+      "currency": "usd",
+      "id": "MSFT",
+      "price": "239.3200"
+    },
+    {
+      "amount": 1,
+      "changePercent": "-0.07",
+      "currency": "usd",
+      "id": "AAPL",
+      "price": "124.9850"
+    },
+    {
+      "amount": 1,
+      "changePercent": "-0.02",
+      "currency": "usd",
+      "id": "KO",
+      "price": "62.9400"
+    },
+    {
+      "amount": 1,
+      "changePercent": "-0.02",
+      "currency": "EUR",
+      "id": "SHEL",
+      "price": "55.9686"
+    },
+    {
+      "amount": 1,
+      "changePercent": 0,
+      "currency": "EUR",
+      "id": "FORTUM.HE",
+      "price": 0
+    },
+    {
+      "amount": 1,
+      "changePercent": 0,
+      "currency": "EUR",
+      "id": "KNEBV.HE",
+      "price": 0
+    },
+    {
+      "amount": 1,
+      "changePercent": 0,
+      "currency": "EUR",
+      "id": "MBG.DE",
+      "price": 0
+    },
+    {
+      "amount": 1,
+      "changePercent": 0,
+      "currency": "EUR",
+      "id": "LHA.DE",
+      "price": 0
+    },
+    {
+      "amount": 1,
+      "changePercent": 0,
+      "currency": "EUR",
+      "id": "UPM.HE",
+      "price": 0
+    },
+    {
+      "amount": 1,
+      "changePercent": 0,
+      "currency": "EUR",
+      "id": "NESTE.HE",
+      "price": 0
+    },
+    {
+      "amount": 1,
+      "changePercent": "0.00",
+      "currency": "usd",
+      "id": "MCD",
+      "price": "264.3300"
+    },
+    {
+      "amount": 1,
+      "changePercent": "0.01",
+      "currency": "usd",
+      "id": "MS",
+      "price": "85.7200"
+    },
+    {
+      "amount": 1,
+      "changePercent": "0.03",
+      "currency": "usd",
+      "id": "GOOGL",
+      "price": "89.1450"
+    },
+    {
+      "amount": 1,
+      "changePercent": "0.03",
+      "currency": "usd",
+      "id": "TSLA",
+      "price": "108.1301"
+    },
+    {
+      "amount": 1,
+      "changePercent": "0.06",
+      "currency": "usd",
+      "id": "RIO",
+      "price": "71.1000"
+    },
+    {
+      "amount": 1,
+      "changePercent": "0.19",
+      "currency": "usd",
+      "id": "TSM",
+      "price": "74.1700"
+    }
+]
