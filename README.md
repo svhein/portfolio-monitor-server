@@ -12,7 +12,8 @@ Returns array containing ticker price and change percent  e.g.  `[145.6723445, 1
 ```
 GET /search/:input
 ```
-Returns array of objects containing ticker data, e.g `input='AAP'` returns
+Search tickers avaible in Yahoo finance 
+Returns search results, e.g `input='AAP'` returns
 ```json
 [
    {
