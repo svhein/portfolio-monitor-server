@@ -1,5 +1,5 @@
 # portfolio-monitor-server
-Server for my [portfolio monitor](https://github.com/svhein/portfolio-monitor) app that mainly serves scraped data from Yahoo finance website using cheerio
+Server for my [portfolio monitor](https://github.com/svhein/portfolio-monitor) app that mainly serves scraped data from Yahoo finance website
 
 ## Endpoints
 ```
