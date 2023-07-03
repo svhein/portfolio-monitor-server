@@ -5,7 +5,9 @@ Server for my [portfolio monitor](https://github.com/svhein/portfolio-monitor) a
 ```
 GET /:ticker/
 ```
-Returns array containing ticker price and change percent  e.g.  `[145.6723445, 1.3566775]`
+Returns json containing ticker price and changepercent  e.g.  `{"ticker":"KO",
+                                                                  "value":60.58,
+                                                                  "changePercent":0.597809}`
 
 #
 
